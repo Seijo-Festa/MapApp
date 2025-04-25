@@ -99,7 +99,7 @@ Published on 26/04/2022 13:58
 機能要件
 対応OS:Android10以降、ios9以降
 非機能要件
-対応OS以外のOS(WindowsやLinaxなど)
+対応OS以外のOS(WindowsやLinuxなど)
 互換性
 
 スケジュール
